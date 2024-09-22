@@ -1,4 +1,4 @@
-import Button from "../button/button"
+import Button from "../AlertButton"
 
 const buttonLabel = ['Clique aqui', 'Baixar CV']
 
