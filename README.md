@@ -1,8 +1,22 @@
-# React + Vite
+# Quest Base React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Este projeto é uma aplicação desenvolvida em **React** com dois desafios:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Componente que colore e transforma um texto para maiúsculo**
+- **Crie um componente Button com um evento de clique que apresente um alerta informando a prop label do botão que foi clicado, com a seguinte mensagem**
+
+![quest-react](https://github.com/user-attachments/assets/8b97dc05-f9ec-4c48-a854-14f33136a02d)
+
+
+## Estrutura do Projeto
+
+A estrutura básica da aplicação é composta por três componentes principais:
+
+- **Logo**: Exibe o logotipo da aplicação.
+- **MainContent**: Componente que gerencia o conteúdo principal da aplicação.
+- **Buttons**: Um conjunto de botões que, presumivelmente, exibem alertas ou interagem de alguma forma com o usuário.
+
+## Dependências
+
+- **React**: Biblioteca JavaScript utilizada para construir a interface de usuário.
